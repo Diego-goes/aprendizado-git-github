@@ -1,2 +1,1 @@
-# aprendizado-git-github
-Exercício de git e github.
+Projeto aprendendo git e github para me tornar um programador Java Script FUll stack.

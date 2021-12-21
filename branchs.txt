@@ -1,0 +1,6 @@
+// - Comandos dos branchs - //
+git branch | Mostra os branchs existentes.
+git branch (nome da branch) | Cria uma nova branch com o nome selecionado.
+git checkout | Muda a branch atual do projeto.
+git checkout -b (nome da branch) | Cria uma nova branch e ja á seleciona para o uso.
+git merge (nome da branch) | A branch atual recebe os arquivos da branch selecionada.

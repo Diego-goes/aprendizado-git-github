@@ -1,0 +1,11 @@
+// - Principais comandos - //
+cd | Navega entre as pastas no diretório.
+touch | Cria um arquivo.
+ls | Mostra todos os arquivos presentes do diretório.
+git init | Inicia o git na pasta selecionada.
+git status | Mostra o status de todos os aqruivos no diretório.
+git add | Adiciona arquivos para entrarem no "staged".
+git reset HEAD (nome do arquivo) | Remove o arquivo do "staged".
+git commit --amend | Edita commits feitos.
+git diff | Mostra as alterações entre arquivos.
+git checkout -- (nome do arquivo) | Volta a versão do anterior á modificação.

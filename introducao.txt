@@ -1,0 +1,4 @@
+// - Exercicío de git e github - //
+
+Esse projeto visa reforçar todo conteúdo visto no curso para se tornar um desenvolvedor full stack.
+

@@ -1,0 +1,5 @@
+// - Comando para conectar ao github - //
+git clone (link https) | Clona um repositório existente do github no computador.
+git remote add origin (link https) | Cria a ligação entre o projeto local e o github na nuvem.
+git pull origin (nome da branch) | Recebe os arquivos da nuvem da branch selecionada.
+git push origin (nome da branch) | Envia os arquivos do computador para a nuvem na branch selecionada.

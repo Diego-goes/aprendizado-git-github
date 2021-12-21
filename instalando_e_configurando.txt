@@ -1,4 +1,4 @@
-// Instalação
+// - Instalação - //
 Dependendo do sistema operacional, existe a possibilidade do GIT ja estar instalado. 
 (MAC e Linux)
 Caso o computador não tenha o GIT instalado, basta ir ao site oficial:

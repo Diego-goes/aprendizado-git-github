@@ -6,6 +6,6 @@ https://git-scm.com/downloads
 
 
 // - Configurando o nome de usuário e o seu email. - //
-git config --global user.name "Diego Goes"
-git config --global user.email "diego@vsktechnology.com.br"
+git config --global user.name "Seu nome"
+git config --global user.email "Seu email"
 ("--global" irá deixar essa configuração padrão para todos os projetos.)
